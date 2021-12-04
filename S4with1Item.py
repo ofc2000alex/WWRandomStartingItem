@@ -42,8 +42,8 @@ def assignPermalinkAlex(startingItemIndexAlex):
 
 startingItemIndexAlex = random.randint(1,8)
 startingItemResultAlex = assignPermalinkAlex(startingItemIndexAlex)
-print("Your starting item is {}.".format(startingItemResultAlex[1]))
-print("Your sample permalink is {}.".format(startingItemResultAlex[0]))
+# print("Your starting item is {}.".format(startingItemResultAlex[1]))
+# print("Your sample permalink is {}.".format(startingItemResultAlex[0]))
 
 
 
